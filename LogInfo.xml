@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<log_queries>
+    <queries>
+        <query>
+            <date>2021-07-06 21:05:42.443003600</date>
+            <cityFromWhere>Minsk</cityFromWhere>
+            <cityWhereTo>Moscow</cityWhereTo>
+            <transport>KAMAZ-54901-92</transport>
+            <numPass>5</numPass>
+            <cargoW>2</cargoW>
+            <type>
+                <id>2</id>
+                <name>cheapest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-06 21:09:45.415468700</date>
+            <cityFromWhere>Minsk</cityFromWhere>
+            <cityWhereTo>Moscow</cityWhereTo>
+            <transport>Mitsubishi SpaceJet</transport>
+            <numPass>50</numPass>
+            <cargoW>15</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-06 21:12:01.437378</date>
+            <cityFromWhere>Minsk</cityFromWhere>
+            <cityWhereTo>Moscow</cityWhereTo>
+            <transport>MAN Lion’s Coach</transport>
+            <numPass>10</numPass>
+            <cargoW>3</cargoW>
+            <type>
+                <id>2</id>
+                <name>cheapest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-06 21:15:20.312518800</date>
+            <cityFromWhere>Andorra la Vella</cityFromWhere>
+            <cityWhereTo>Ryazan</cityWhereTo>
+            <transport>Volvo FM</transport>
+            <numPass>4</numPass>
+            <cargoW>2</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-07 18:27:24.463052800</date>
+            <cityFromWhere>Captain Cook</cityFromWhere>
+            <cityWhereTo>Saint Petersburg</cityWhereTo>
+            <transport>Carnival Elation</transport>
+            <numPass>20</numPass>
+            <cargoW>10</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-07 18:28:45.341199100</date>
+            <cityFromWhere>New York City</cityFromWhere>
+            <cityWhereTo>Beijing</cityWhereTo>
+            <transport>Mitsubishi SpaceJet</transport>
+            <numPass>50</numPass>
+            <cargoW>15</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-07 18:29:21.288677400</date>
+            <cityFromWhere>Bissau</cityFromWhere>
+            <cityWhereTo>Moscow</cityWhereTo>
+            <transport>Airbus A380-900 </transport>
+            <numPass>200</numPass>
+            <cargoW>20</cargoW>
+            <type>
+                <id>2</id>
+                <name>cheapest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-07 18:54:57.429245100</date>
+            <cityFromWhere>Himmafushi</cityFromWhere>
+            <cityWhereTo>Captain Cook</cityWhereTo>
+            <transport>Hormuz</transport>
+            <numPass>150</numPass>
+            <cargoW>30</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-07 19:07:59.385425500</date>
+            <cityFromWhere>Minsk</cityFromWhere>
+            <cityWhereTo>Mexico city</cityWhereTo>
+            <transport>Mitsubishi SpaceJet</transport>
+            <numPass>3</numPass>
+            <cargoW>2</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-12 19:22:54.812969300</date>
+            <cityFromWhere>Carlini Base</cityFromWhere>
+            <cityWhereTo>Saint Petersburg</cityWhereTo>
+            <transport>Airbus A380-900 </transport>
+            <numPass>40</numPass>
+            <cargoW>55</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-12 22:39:21.729438900</date>
+            <cityFromWhere>Andorra la Vella</cityFromWhere>
+            <cityWhereTo>Minsk</cityWhereTo>
+            <transport>MAN</transport>
+            <numPass>10</numPass>
+            <cargoW>4</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-12 23:35:15.789284100</date>
+            <cityFromWhere>Mexico city</cityFromWhere>
+            <cityWhereTo>Moscow</cityWhereTo>
+            <transport>Airbus A380-900 </transport>
+            <numPass>30</numPass>
+            <cargoW>10</cargoW>
+            <type>
+                <id>2</id>
+                <name>cheapest</name>
+            </type>
+        </query>
+        <query>
+            <date>2021-07-14 18:14:15.980753200</date>
+            <cityFromWhere>Carlini Base</cityFromWhere>
+            <cityWhereTo>Minsk</cityWhereTo>
+            <transport>Mitsubishi SpaceJet</transport>
+            <numPass>20</numPass>
+            <cargoW>10</cargoW>
+            <type>
+                <id>1</id>
+                <name>fastest</name>
+            </type>
+        </query>
+    </queries>
+</log_queries>
